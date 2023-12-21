@@ -1,4 +1,4 @@
-![image](https://github.com/sujalsahu620/sujalsahu620/assets/139754187/312adbbb-687a-433e-b549-86988cdb9d4d)- 👋 Hi, I’m @sujalsahu620
+ 👋 Hi, I’m @sujalsahu620
 - 👀 I’m interested in Web Developement 
 - 🌱 I’m currently learning Full Stack Web Developement
 
