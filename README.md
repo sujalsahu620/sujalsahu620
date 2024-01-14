@@ -1,10 +1,9 @@
  👋 Hi, I’m @sujalsahu620
 - 👀 I’m interested in Web Developement 
 - 🌱 I’m currently learning Full Stack Web Developement
-- <button onclick="window.location.href = 'https://sujalsahu620.github.io/';">Portfolio</button> 
-- <button onclick="window.location.href = 'https://drive.google.com/file/d/17T94ER2ryE6YrYf_SFyZA1YpDw554PZz/view?usp=drive_link';">Resume</button>
-- <button onclick="window.location.href = 'https://www.linkedin.com/in/sujalsahu620/ ';">LinkedIn</button> 
----
+- Portfolito - https://sujalsahu620.github.io/'
+- Resume     - https://drive.google.com/file/d/17T94ER2ryE6YrYf_SFyZA1YpDw554PZz/view?usp=drive_link
+- Linked In  - https://www.linkedin.com/in/sujalsahu620/
 Results-driven Full Stack Web Developer . Collaborative team player excelling in scalable web applications . Adept at solo and collaborative projects. Proficient in HTML, CSS, and React.js for frontend, and Node.js/Express.js for backend development. Enthusiastic about leveraging 35 weeks of industry training, With 5 major collaborative projects, and over 6 total projects for innovative web development.
 
 </p>
