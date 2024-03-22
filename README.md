@@ -9,7 +9,7 @@
 Results-driven Full Stack Web Developer . Collaborative team player excelling in scalable web applications . Adept at solo and collaborative projects. Proficient in HTML, CSS, and React.js for frontend, and Node.js/Express.js for backend development. Enthusiastic about leveraging 35 weeks of industry training, With 6 major collaborative projects, and over 8 total projects  for innovative web development.
 
 </p>
-🛠 Skills & Tools
+<h1 align="center">🛠 Skills & Tools</h1>
  
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
