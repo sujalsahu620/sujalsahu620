@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement 
 - 🌱 I’m currently learning Full Stack Web Developement
 - Portfolito - https://sujalsahu620.github.io/'
-- Resume     - https://drive.google.com/file/d/1aYCv2Z86X5AEbLCMzE0Fxe6i7GWnMtH3/view?usp=drive_link
+- Resume     - https://drive.google.com/file/d/1YTVfTSuPBpfF0hU8IKTwbcZDrtLDMxXW/view
 - Linked In  - https://www.linkedin.com/in/sujalsahu620/
 
 
