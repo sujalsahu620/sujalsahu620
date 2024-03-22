@@ -6,7 +6,7 @@
 - Linked In  - https://www.linkedin.com/in/sujalsahu620/
 
 
-Results-driven Full Stack Web Developer . Collaborative team player excelling in scalable web applications . Adept at solo and collaborative projects. Proficient in HTML, CSS, and React.js for frontend, and Node.js/Express.js for backend development. Enthusiastic about leveraging 35 weeks of industry training, With 5 major collaborative projects, and over 6 total projects for innovative web development.
+Results-driven Full Stack Web Developer . Collaborative team player excelling in scalable web applications . Adept at solo and collaborative projects. Proficient in HTML, CSS, and React.js for frontend, and Node.js/Express.js for backend development. Enthusiastic about leveraging 35 weeks of industry training, With 6 major collaborative projects, and over 8 total projects  for innovative web development.
 
 </p>
 🛠 Skills
