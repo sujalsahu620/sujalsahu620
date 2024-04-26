@@ -1,8 +1,7 @@
  👋 Hi, I’m @sujalsahu620
 - 👀 I’m interested in Web Developement 
 - 🌱 I’m a Full Stack Web Developer
-- Resume     - https://drive.google.com/file/d/1aYCv2Z86X5AEbLCMzE0Fxe6i7GWnMtH3/view?usp=drive_link
-- <img src="https://img.shields.io/badge/Resume-212121?logo=pagekit&logoColor=FFEFCB&style=for-the-badge"/>
+- [![Resume](https://img.shields.io/badge/Resume-212121?logo=pagekit&logoColor=FFEFCB&style=for-the-badge)](https://drive.google.com/file/d/1aYCv2Z86X5AEbLCMzE0Fxe6i7GWnMtH3/view?usp=drive_link_)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalsahu620/)
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sujalsahu620.github.io/)
 
