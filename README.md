@@ -18,7 +18,7 @@ Results-driven Full Stack Web Developer . Collaborative team player excelling in
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/-Graph_QL-DE34A6?logo=graphql&style=for-the-badge&logo=css3&" />
-<!-- <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat"/> -->
+<img src="![3M Badge](https://img.shields.io/badge/3M-F00?logo=3m&logoColor=fff&style=for-the-badge)"/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
