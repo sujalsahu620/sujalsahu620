@@ -17,9 +17,8 @@ Results-driven Full Stack Web Developer . Collaborative team player excelling in
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat"/>
-<!-- <img src="https://img.shields.io/badge/-Graph_QL-DE34A6?logo=graphql" /> -->
- ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
+<img src="https://img.shields.io/badge/-Graph_QL-DE34A6?logo=graphql&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat"/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
