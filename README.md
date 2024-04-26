@@ -41,6 +41,7 @@ Results-driven Full Stack Web Developer . Collaborative team player excelling in
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <!--   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" /> -->
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
+ <img src="https://img.shields.io/badge/DSA-000?logo=datadotai&logoColor=fff&style=for-the-badge"/>
   <div/>
 </p>
    <p align="center" >
