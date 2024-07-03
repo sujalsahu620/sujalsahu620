@@ -3,7 +3,7 @@
 - 🌱 I’m a Full Stack Web Developer
 - [![Resume](https://img.shields.io/badge/Resume-212121?logo=pagekit&logoColor=FFEFCB&style=for-the-badge)](https://drive.google.com/file/d/1aYCv2Z86X5AEbLCMzE0Fxe6i7GWnMtH3/view?usp=drive_link_)
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalsahu620/)
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sujalsahu620.github.io/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sujalsahu.vercel.app/)
 
 
 Results-driven Full Stack Web Developer . Collaborative team player excelling in scalable web applications . Adept at solo and collaborative projects. Proficient in HTML, CSS, and React.js for frontend, and Node.js/Express.js for backend development. Enthusiastic about leveraging 35 weeks of industry training, With 6 major collaborative projects, and over 8 total projects  for innovative web development.
